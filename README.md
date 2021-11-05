@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mi-Abiye Wisdom Obianime
-- 👀 I’m interested in technology, sprots and music.
+- 👀 I’m interested in technology, sports and music.
 - 🌱 I’m currently learning Computer graphics and Full Stack Development
 - 📫 How to reach me miabiyewisdom@gmail.com
 
